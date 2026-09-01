@@ -16,7 +16,7 @@ Install the required Python packages with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Workflow
 
 The analysis consists of:
