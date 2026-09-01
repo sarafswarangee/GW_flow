@@ -10,6 +10,13 @@ Future gravitational-wave observatories such as the Einstein Telescope are expec
 
 This project uses a gravitational-wave analysis workflow combining conventional matched filtering and machine-learning-based anomaly detection as an example heterogeneous scientific workload.
 
+## Installation
+
+Install the required Python packages with:
+
+```bash
+pip install -r requirements.txt
+
 ## Workflow
 
 The analysis consists of:
